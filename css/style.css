@@ -42,6 +42,15 @@ h1 {
 
 h2 {
 	font-size: 2em;
-	font-family: 'Baskerville', serif;
-	font-weight: 100;
+	font-weight: bold;;
+	color: rgb(111,127,122);
+}
+
+p {
+  color: #555;
+}
+
+footer {
+	float: right;
+	font-size: .75em;
 }
