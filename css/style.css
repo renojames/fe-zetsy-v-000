@@ -49,3 +49,8 @@ h2 {
 p {
   color: #555;
 }
+
+footer {
+	float: right;
+	font-size: 0.5em;
+}
